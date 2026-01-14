@@ -23,6 +23,7 @@
 ### 2_visualizaiton
 데이터를 가공한 후 시각화한 ipynb입니다.
 stacked bar, heatamp 등으로 데이터를 받아왔습니다.
+데이터를 가공해서 시각화한 자료는 이 ipynb에만 존재합니다.(pdf 참고)
 
 ## 실행
 github repository 특성 상 25MB가 넘는 파일에 대한 업로드가 허용되지 않습니다.
